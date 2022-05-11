@@ -1,0 +1,19 @@
+{
+  "name": "react-portfolio",
+  "version": "1.0.0",
+  "description": "Making my first portfolio into a React project, with additional features",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IanWallenberg/React-Portfolio.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IanWallenberg/React-Portfolio/issues"
+  },
+  "homepage": "https://github.com/IanWallenberg/React-Portfolio#readme"
+}
